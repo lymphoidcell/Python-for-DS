@@ -1,7 +1,15 @@
 # Python for Data Science
-## 01 The Basics of Dat
+## 01 The Basics of Data
+- Different categories data
+- Typical data analysis process
+
 ## 02 Python Data Structures
+- Data structures in Python: lists, dictionaries, tuples, and sets
+- How to use each structure
+- How to combine them into more complex structures that can represent real-world objects
+
 ## 03 Python Data Science Libraries
+
 ## 04 Accessing Data from Files and APIs
 ## 05 Working with Databases
 ## 06 Aggregating Data
