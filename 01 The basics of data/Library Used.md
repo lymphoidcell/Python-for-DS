@@ -1,6 +1,6 @@
-# Understanding Essential Python Libraries for Data Handling and Analysis
+# The Python Libraries used in the Notebook
 
-Let's explore each library and module listed, explaining their usage and relevance in the context of basic data handling, manipulation, and analysis.
+Their usage and relevance to the data work~
 
 ---
 
